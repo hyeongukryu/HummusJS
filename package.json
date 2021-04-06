@@ -1,6 +1,6 @@
 {
   "name": "hummus",
-  "version": "1.0.111",
+  "version": "1.0.112",
   "description": "Create, read and modify PDF files and streams",
   "homepage": "http://pdfhummus.com/",
   "license": "Apache-2.0",
@@ -29,16 +29,16 @@
     "PDFWStreamForBuffer.js"
   ],
   "dependencies": {
-    "node-pre-gyp": "^0.17.0"
+    "@mapbox/node-pre-gyp": "^1.0.3"
   },
   "bundledDependencies": [
-    "node-pre-gyp"
+    "@mapbox/node-pre-gyp"
   ],
   "devDependencies": {
-    "aws-sdk": "~2.829.0",
-    "chai": "^4.2.0",
-    "mocha": "^7.2.0",
-    "npm": "^6.14.11"
+    "aws-sdk": "~2.880.0",
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "npm": "^7.8.0"
   },
   "binary": {
     "module_name": "hummus",
