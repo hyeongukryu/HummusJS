@@ -35,7 +35,7 @@
     "@mapbox/node-pre-gyp"
   ],
   "devDependencies": {
-    "aws-sdk": "~2.1259.0",
+    "aws-sdk": "~2.1693.0",
     "chai": "^4.3.7",
     "mocha": "^10.1.0",
     "npm": "^9.1.2"
