@@ -29,7 +29,7 @@
     "PDFWStreamForBuffer.js"
   ],
   "dependencies": {
-    "@mapbox/node-pre-gyp": "^1.0.10"
+    "@mapbox/node-pre-gyp": "^2.0.3"
   },
   "bundledDependencies": [
     "@mapbox/node-pre-gyp"
@@ -38,7 +38,7 @@
     "aws-sdk": "~2.1693.0",
     "chai": "^4.3.7",
     "mocha": "^10.1.0",
-    "npm": "^9.1.2"
+    "npm": "^10.9.9"
   },
   "binary": {
     "module_name": "hummus",
